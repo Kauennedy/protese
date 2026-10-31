@@ -19,7 +19,7 @@ const CONFIG = {
   whatsappNumber: "558491329199",
   whatsappDisplay: "(84) 9132-9199",
   whatsappMessage: "Olá! Gostaria de consultar o preço de uma prótese dentária.",
-  address: "",
+  address: "Rua Ademar Liberato, nº 204, depois do cemitério velho, Centro, São Miguel",
   hours: "",
 };
 
