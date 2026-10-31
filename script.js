@@ -16,8 +16,8 @@
                    Exemplo: "(81) 99999-9999"
 -------------------------------------------------------------------------- */
 const CONFIG = {
-  whatsappNumber: "",
-  whatsappDisplay: "",
+  whatsappNumber: "558491329199",
+  whatsappDisplay: "(84) 9132-9199",
   whatsappMessage: "Olá! Gostaria de consultar o preço de uma prótese dentária.",
   address: "",
   hours: "",
